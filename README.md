@@ -1,4 +1,3 @@
-```markdown
 # PDF to MOBI GUI Converter
 
 ## Introduction
@@ -23,4 +22,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 Thanks to the developers of tkinter, PyMuPDF, PyPDF2, and Calibre for their great work.
-```
